@@ -107,7 +107,7 @@ const Page = () => {
         <div>
           <h4>{error}</h4>
         </div>
-        <button type="submit">Know My Pu</button>
+        <button type="submit">PU Location</button>
       </form>
     </div>
         <div className="flow">

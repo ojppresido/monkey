@@ -13,16 +13,16 @@ const Navbar = () => {
       <nav>
         <div>
           <button className='welcome'>
-            <h4>Welcome</h4>
+            <h5>Welcome</h5>
           </button>
           <button className='welcome check'>
-            <h4>My PU Location</h4>
+            <h5>My PU Location</h5>
           </button>
           <button onClick={transfer} className='welcome dont'>
-            <h4>Transfer Me</h4>
+            <h5>Transfer Me</h5>
           </button>
           <button className='welcome log'>
-            <h4 className='foot'>About Us</h4>
+            <h5 className='foot'>About Us</h5>
           </button>
         </div>
       </nav>
